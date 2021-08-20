@@ -9,7 +9,7 @@ insecure@1.0.7
 sergeyt:typeahead
 http@1.4.0
 twbs:bootstrap
-standard-minifier-css@1.4.0
-standard-minifier-js@2.3.1
-shell-server
-dynamic-import
+standard-minifier-css@1.7.3
+standard-minifier-js@2.6.1
+shell-server@0.5.0
+dynamic-import@0.7.1

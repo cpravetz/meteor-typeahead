@@ -14,7 +14,7 @@
   ],
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
   "dependencies": {
-    "@babel/runtime": "^7.0.0-beta.49"
+    "@babel/runtime": "^7.13.9"
   },
   "devDependencies": {},
   "scripts": {}
